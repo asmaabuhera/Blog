@@ -1,0 +1,18 @@
+.defaultButton {
+  background-color: rgb(58, 162, 162);
+  color: white;
+  font-size: medium;
+  padding: 0.3rem 1rem !important;
+  border-radius: 1rem;
+  border: 1px solid transparent ;
+}
+
+.warningButton{
+  background-color: rgb(71, 7, 7) !important;
+  margin-right: 0.2rem;
+  color: white;
+  font-size: medium;
+  padding: 0.3rem 0.5rem !important;
+  border-radius: 1rem;
+  border: 1px solid transparent ;
+}

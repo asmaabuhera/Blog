@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "blog 1",
+    "description": "This is sample blog data #1",
+    "content": " Looking to write a new random blog post but experiencing some writer’s block? Writer’s block is a real thing and if you’ve got it, I feel you! Coming up with new random blog post ideas and topics can be time-consuming and challenging. What’s even more challenging is coming up with a great random content idea that people will actually read. There is no shortage of potential blog post topics to select from. That’s why, in this post, we’ll be brainstorming some of the most interesting and innovative random blog post titles and topic ideas that come from researching what people are actually searching for in Google, so that can hopefully help you write your next blog post and keep your readers engaged and coming back for more.",
+    "author": "John Doe",
+    "date_created": "2021",
+    "image": "/images/blog1.jpeg",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "blog 2",
+    "description": "This is sample blog data #2",
+    "content": " Looking to write a new random blog post but experiencing some writer’s block? Writer’s block is a real thing and if you’ve got it, I feel you! Coming up with new random blog post ideas and topics can be time-consuming and challenging. What’s even more challenging is coming up with a great random content idea that people will actually read. There is no shortage of potential blog post topics to select from. That’s why, in this post, we’ll be brainstorming some of the most interesting and innovative random blog post titles and topic ideas that come from researching what people are actually searching for in Google, so that can hopefully help you write your next blog post and keep your readers engaged and coming back for more.",
+    "author": "John Doe",
+    "date_created": "2022",
+    "image": "/images/blog2.jpeg",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "blog 3",
+    "description": "This is sample blog data #3",
+    "content": " Looking to write a new random blog post but experiencing some writer’s block? Writer’s block is a real thing and if you’ve got it, I feel you! Coming up with new random blog post ideas and topics can be time-consuming and challenging. What’s even more challenging is coming up with a great random content idea that people will actually read. There is no shortage of potential blog post topics to select from. That’s why, in this post, we’ll be brainstorming some of the most interesting and innovative random blog post titles and topic ideas that come from researching what people are actually searching for in Google, so that can hopefully help you write your next blog post and keep your readers engaged and coming back for more.",
+    "author": "John Doe",
+    "date_created": "2023",
+    "image": "/images/blog3.jpeg",
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "title": "blog 4",
+    "description": "This is sample blog data #4",
+    "content": " Looking to write a new random blog post but experiencing some writer’s block? Writer’s block is a real thing and if you’ve got it, I feel you! Coming up with new random blog post ideas and topics can be time-consuming and challenging. What’s even more challenging is coming up with a great random content idea that people will actually read. There is no shortage of potential blog post topics to select from. That’s why, in this post, we’ll be brainstorming some of the most interesting and innovative random blog post titles and topic ideas that come from researching what people are actually searching for in Google, so that can hopefully help you write your next blog post and keep your readers engaged and coming back for more.",
+    "author": "John Doe",
+    "date_created": "2024",
+    "image": "/images/blog4.jpeg",
+    "isFeatured": false
+  }
+]
